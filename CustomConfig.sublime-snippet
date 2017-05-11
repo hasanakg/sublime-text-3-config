@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+config: {
+  plugins: {
+    templates: [
+      'FullName',
+      'TransactionDate',
+      'TransactionType',
+      'ProductName',
+      'TransactionChannelName'
+    ]
+  }
+}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>custom</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

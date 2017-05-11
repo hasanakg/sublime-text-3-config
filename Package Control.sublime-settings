@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"BracketHighlighter",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"Jade",
+		"Package Control",
+		"Pretty JSON",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Vue Syntax Highlight"
+	]
+}
